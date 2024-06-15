@@ -14,8 +14,8 @@
 
 # References
 
-Telegram Bot Documentation is *[here](https://core.telegram.org/bots)*.<br>
-Python Telegram Bot Library Repository is *[here](https://github.com/python-telegram-bot/python-telegram-bot)*.
+Telegram Bot API *[Documentation](https://core.telegram.org/bots)*<br>
+Python Telegram Bot Library *[Documentation](https://python-telegram-bot.readthedocs.io/en/stable/)*, *[Repository](https://github.com/python-telegram-bot/python-telegram-bot)*
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
