@@ -17,6 +17,17 @@
 Telegram Bot API *[Documentation](https://core.telegram.org/bots)*<br>
 Python Telegram Bot Library *[Documentation](https://python-telegram-bot.readthedocs.io/en/stable/)*, *[Repository](https://github.com/python-telegram-bot/python-telegram-bot)*
 
+# Environment Setup
+
+## Creating virtual environment
+```
+python -m venv <name>
+```
+
+## Installing required libraries
+```
+pip install -r requirements.txt
+```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
